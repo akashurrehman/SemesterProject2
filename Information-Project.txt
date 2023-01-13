@@ -1,0 +1,5 @@
+Screens Contains
+
+- Screens related to fields of top Menu like countryside, Yart etc
+- Screens will show result on the basis of search criteria
+- Profile settings login, Logout
